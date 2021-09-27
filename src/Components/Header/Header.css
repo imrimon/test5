@@ -1,0 +1,39 @@
+.navbar {
+  background-color: #a2d2ff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navbar a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: black;
+  padding: 3px 15px;
+}
+.menu a:hover {
+  border-radius: 2px;
+  background-color: crimson;
+  margin-right: 10px;
+  text-decoration: none;
+  color: white;
+  padding: 3px 15px;
+}
+.make {
+  color: rgb(171, 10, 42);
+}
+.content {
+  padding-top: 20px;
+  height: 110px;
+  line-height: 15px;
+  background-color: #bde0fe;
+}
+.content h1 {
+  color: black;
+  margin: 0px;
+}
+.content p {
+  color: rgb(95, 83, 83);
+}
+.totalBudget {
+  color: lightgreen;
+}
